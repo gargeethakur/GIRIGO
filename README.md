@@ -1,1 +1,1 @@
-# GIRIGO
+# GIRIGO기리고
